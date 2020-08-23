@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/reactPagesDemo/static/css/main.5f361e03.chunk.css",
+    "main.js": "/reactPagesDemo/static/js/main.c066379e.chunk.js",
+    "main.js.map": "/reactPagesDemo/static/js/main.c066379e.chunk.js.map",
+    "runtime-main.js": "/reactPagesDemo/static/js/runtime-main.2a4e94a9.js",
+    "runtime-main.js.map": "/reactPagesDemo/static/js/runtime-main.2a4e94a9.js.map",
+    "static/js/2.763b34e5.chunk.js": "/reactPagesDemo/static/js/2.763b34e5.chunk.js",
+    "static/js/2.763b34e5.chunk.js.map": "/reactPagesDemo/static/js/2.763b34e5.chunk.js.map",
+    "index.html": "/reactPagesDemo/index.html",
+    "precache-manifest.dd8b42432a1a155f9b82cd0f71c4486e.js": "/reactPagesDemo/precache-manifest.dd8b42432a1a155f9b82cd0f71c4486e.js",
+    "service-worker.js": "/reactPagesDemo/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/reactPagesDemo/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.763b34e5.chunk.js.LICENSE.txt": "/reactPagesDemo/static/js/2.763b34e5.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/reactPagesDemo/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2a4e94a9.js",
+    "static/js/2.763b34e5.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.c066379e.chunk.js"
+  ]
+}
